@@ -1,0 +1,25 @@
+{
+  "name": "enviroment-variables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fork-lift-enthusiast/enviroment-variables.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fork-lift-enthusiast/enviroment-variables/issues"
+  },
+  "homepage": "https://github.com/fork-lift-enthusiast/enviroment-variables#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
